@@ -1,7 +1,7 @@
 var theme = {
     colors: {
-        accentcolor: "#31363b",
-        textcolor: "#ffffff",
+        frame: "#31363b",
+        tab_background_text: "#ffffff",
         
         toolbar: "#40454a",
         tab_line: "#2478c8",
